@@ -1,4 +1,4 @@
-# OpenShift Origin v1.2.1 on Rancher
+# OpenShift Origin v1.5.1 on Rancher
 
 This template was developed to run Openshift Origin alongside Kubernetes, orchestrated by Rancher. This is advantageous for a number of reasons:
 
