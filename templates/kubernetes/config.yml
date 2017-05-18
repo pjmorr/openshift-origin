@@ -1,4 +1,4 @@
 name: OpenShift Origin
 description: A container application platform deployed on Kubernetes.
-version: v1.2.4-rancher9
+version: v1.5.4-rancher1-4.1
 category: Orchestration
